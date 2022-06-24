@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RumusPersegi</string>
+    <string name="rumus">Rumus</string>
+    <string name="input">Input</string>
+    <string name="hitung">Hitung</string>
+    <string name="keliling">Keliling</string>
+    <string name="btnKeliling">btnKeliling</string>
+    <string name="sisi_invalid">sisi tidak boleh kosong.</string>
+    <string name="keliling_x">%1$.2f</string>
+    <string name="luas_x">%1$.2f</string>
+    <string name="value_x">Keliling: %1$.2f - Volume: %1$.2f</string>
+    <string name="copyright">Hitung Persegi merupakan sebuah aplikasi Android untuk menghitung luas dan keliling Persegi</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Luas : %1$s cm\nKeliling: %2$s</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
+    <string name="hasil_x">Keliling: %1$.2f</string>
+    <string name="data_x">Luas: %1$.2f</string>
+    <string name="hapus_histori">Hapus histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data bangun datar otomatis</string>
+    <string name="notif_title">Ada bangun datar baru nih!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
+    <string name="koneksi_error">Koneksi Error</string>
+    <string name="bangun_datar">Bangun Datar</string>
+</resources>
